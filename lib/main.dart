@@ -38,8 +38,8 @@ class Myapp extends StatelessWidget {
                     fontSize: 15,
                     fontWeight: FontWeight.bold),
               ),
-              onPressed:null,
-              // ()=>Navigator.push(context, MaterialPageRoute<dynam>(builder: context)=>CartScreen()),
+              onPressed:() {}
+
             ),
           ],
           centerTitle: true,
